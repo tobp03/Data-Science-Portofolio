@@ -1,5 +1,5 @@
-# Data Science Portofolio by Toby Purbojo
-Welcome to the Data Science Portfolio of Toby Purbojo. This portfolio showcases a collection of my work in the field of data science, projects in machine learning, data analysis, and statistical modeling.
+# Data Science Portofolio by Toby
+Welcome to the Data Science Portfolio of Toby. This portfolio showcases a collection of my work in the field of data science, projects in machine learning, data analysis, and statistical modeling.
 
 ## Contents
 ### Machine Learning
