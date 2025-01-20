@@ -3,8 +3,8 @@
 ## Contents
 
 ### Machine Learning
- - **Lending Risk Assessment for BNPL Using Data-Driven Modeling - January 2024**: A data-driven approach to assess borrower risk for a fictional BNPL company using demographic analysis, K-Means clustering, and multi-class classification to evaluate repayment ability.
-
+ - [**Lending Risk Assessment for BNPL Using Data-Driven Modeling - January 2024**](./Lending%20Risk%20Assessment.ipynb): A data-driven approach to assess borrower risk for a fictional BNPL company using demographic analysis, K-Means clustering, and multi-class classification to evaluate repayment ability. A project for the statistics team competition held by Universitas Indonesia.
+ - [**Clustering Analysis of Alcoholic Beverages Using Text Data**](./TextClusterAnalysis-Traditional%20Beverages.ipynb):  This project applies text-based clustering to classify traditional alcoholic beverages from 60 countries across Africa, America, Asia, and Europe using the K-Means algorithm, identifying patterns based on ingredient similarities and beverage characteristics.
 
 
  ### Data Visualization with Tableau:
