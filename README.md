@@ -1,7 +1,7 @@
-# Data-Science-Portofolio
+# Data Science Portofolio by Toby Purbojo
+Welcome to the Data Science Portfolio of Toby Purbojo. This portfolio showcases a collection of my work in the field of data science, projects in machine learning, data analysis, and statistical modeling.
 
 ## Contents
-
 ### Machine Learning
  - [**Lending Risk Assessment for BNPL Using Data-Driven Modeling - January 2024**](./Lending%20Risk%20Assessment.ipynb): A data-driven approach to assess borrower risk for a fictional BNPL company using demographic analysis, K-Means clustering, and multi-class classification to evaluate repayment ability. A project for the statistics team competition held by Universitas Indonesia.
  - [**Prediction of Divorce Rates by Applying Factor Analysis**](./Factor%20Analysis.ipynb): Aims to identify key factors contributing to divorce and enhance predictive accuracy by utilizing factor analysis in combination with logistic regression and random forests.
